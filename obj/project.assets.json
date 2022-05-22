@@ -454,24 +454,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/colbymchugh/.nuget/packages/": {}
+    "C:\\Users\\kcmcq\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/colbymchugh/Projects/cs/cs.csproj",
+      "projectUniqueName": "C:\\Users\\kcmcq\\Csharp-sql\\cs.csproj",
       "projectName": "cs",
-      "projectPath": "/Users/colbymchugh/Projects/cs/cs.csproj",
-      "packagesPath": "/Users/colbymchugh/.nuget/packages/",
-      "outputPath": "/Users/colbymchugh/Projects/cs/obj/",
+      "projectPath": "C:\\Users\\kcmcq\\Csharp-sql\\cs.csproj",
+      "packagesPath": "C:\\Users\\kcmcq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kcmcq\\Csharp-sql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/colbymchugh/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kcmcq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -510,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
